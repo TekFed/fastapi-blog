@@ -5,7 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
-FastAPI-02-Templates/
+FastAPI-*-*/
 
 # Virtual environments
 .venv
