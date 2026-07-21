@@ -9,3 +9,6 @@ FastAPI-*-*/
 
 # Virtual environments
 .venv
+
+#database
+*.db
